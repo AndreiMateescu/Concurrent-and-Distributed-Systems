@@ -1,0 +1,3 @@
+cars on the LEFT side:5
+cars on the RIGHT side:0
+cars on bridge at one point is:1

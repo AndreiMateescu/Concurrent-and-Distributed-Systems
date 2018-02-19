@@ -1,0 +1,70 @@
+cars on the LEFT side:7
+cars on the RIGHT side:7
+The number of maximum cars on bridge at one point is:3
+LEFT side semaphore is GREEN
+RIGHT side semaphore is RED
+LEFT side semaphore is RED.
+RIGHT side semaphore is GREEN
+No cars on left side, keeping right semaphore green
+One car cleared from RIGHT
+Entering in the tunnel car from RIGHT direction
+No cars on left side, keeping right semaphore green
+One car cleared from RIGHT
+Entering in the tunnel car from RIGHT direction
+No cars on left side, keeping right semaphore green
+One car cleared from RIGHT
+Entering in the tunnel car from RIGHT direction
+Existing from tunner car from RIGHT direction
+No cars on left side, keeping right semaphore green
+One car cleared from RIGHT
+Entering in the tunnel car from RIGHT direction
+Existing from tunner car from RIGHT direction
+No cars on left side, keeping right semaphore green
+One car cleared from RIGHT
+Entering in the tunnel car from RIGHT direction
+Existing from tunner car from RIGHT direction
+No cars on left side, keeping right semaphore green
+One car cleared from RIGHT
+Entering in the tunnel car from RIGHT direction
+Existing from tunner car from RIGHT direction
+No cars on left side, keeping right semaphore green
+One car cleared from RIGHT
+Entering in the tunnel car from RIGHT direction
+Existing from tunner car from RIGHT direction
+No cars on left side, keeping right semaphore green
+One car cleared from RIGHT
+Entering in the tunnel car from RIGHT direction
+Existing from tunner car from RIGHT direction
+No cars on left side, keeping right semaphore green
+One car cleared from RIGHT
+Entering in the tunnel car from RIGHT direction
+Existing from tunner car from RIGHT direction
+No cars on left side, keeping right semaphore green
+One car cleared from RIGHT
+Entering in the tunnel car from RIGHT direction
+Existing from tunner car from RIGHT direction
+No cars on left side, keeping right semaphore green
+One car cleared from RIGHT
+Entering in the tunnel car from RIGHT direction
+Existing from tunner car from RIGHT direction
+No cars on left side, keeping right semaphore green
+One car cleared from RIGHT
+Entering in the tunnel car from RIGHT direction
+Existing from tunner car from RIGHT direction
+No cars on left side, keeping right semaphore green
+One car cleared from RIGHT
+Entering in the tunnel car from RIGHT direction
+Existing from tunner car from RIGHT direction
+No cars on left side, keeping right semaphore green
+One car cleared from RIGHT
+Entering in the tunnel car from RIGHT direction
+Existing from tunner car from RIGHT direction
+No cars on left side, keeping right semaphore green
+One car cleared from RIGHT
+Entering in the tunnel car from RIGHT direction
+No cars on left side, keeping right semaphore green
+RIGHT side semaphore is RED
+Existing from tunner car from RIGHT direction
+Existing from tunner car from RIGHT direction
+Existing from tunner car from RIGHT direction
+No more cars on either side. Exiting...
